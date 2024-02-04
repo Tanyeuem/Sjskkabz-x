@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-Window = OrionLib:MakeWindow({Name = "Nameless racev4", HidePremium = false, SaveConfig = true, ConfigFolder = "Nameless racev4"})
+local Window = OrionLib:MakeWindow({Name = "Nameless v4", HidePremium = false, SaveConfig = true, ConfigFolder = "Nameless v4"})
 
 V4Tab:AddParagraph("Trial Race","RACE V4 TRIALS")
 
